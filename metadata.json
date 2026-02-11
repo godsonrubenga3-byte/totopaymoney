@@ -1,0 +1,8 @@
+{
+  "name": "TOTOPAY",
+  "description": "A premium dark-themed financial application for currency rates, payments, and rewards with a unique Thanksgiving gamification system.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
